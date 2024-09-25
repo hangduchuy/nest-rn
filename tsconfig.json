@@ -20,8 +20,6 @@
     "strictBindCallApply": false,
     "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false,
-  },
-  "watchOptions": {
-    "watchFile": "fixedPollingInterval"
+    "esModuleInterop": true
   }
 }
